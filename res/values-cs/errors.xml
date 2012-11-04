@@ -40,4 +40,9 @@
     <string name="Cannot_create_directory_X">Nelze vytvořit adresář \&quot;%x\&quot;</string>
     <string name="Unable_to_start_the_service_on_port_x">Nelze spustit službu na portu %</string>
     
+    <string name="Invalid_position">Neplatné umístění</string>
+    <string name="Unable_to_delete_file_x">Soubor % nelze smazat</string>
+    <string name="Unable_to_mount_the_system_as_read_write">Systém nelze připojit pro tení a zápis</string>
+    <string name="Unable_to_mount_the_system_as_read_only">Systém nelze připojit pro čtení</string>
+    
 </resources>
