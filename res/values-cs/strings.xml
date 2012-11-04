@@ -702,5 +702,50 @@
     <string name="Notification_shortcut">Notification shortcut</string>
     <string name="Notification_shortcut_summary">Put the shortcut in the status bar when the app is running in the background</string>
     <string name="Please_wait">Prosím čekejte</string>
+    
+        <string name="Are_you_sure_you_want_to_copy_this_files_to_second_panel">Opravdu to chcece zkopírovat do druhého panelu?</string>
+<string name="Are_you_sure_you_want_to_move_this_files_to_second_panel">Opravdu to chcece přesunout do druhého panelu?</string>
+<string name="Image_not_loaded">Obrázek nenačten</string>
+<string name="Target_SDK">Cílové SDK</string>
+<string name="Description">Popis</string>
+<string name="Data_dir">Data dir</string> <!-- short word please -->
+<string name="Installed">Nainstalováno</string>
+<string name="Updated">Aktualizováno</string>
+<string name="Install">Instalovat</string>
+<string name="More">Více</string>
+<string name="Package_name">Název balíčku</string>
+<string name="Map_view">Map view</string>
+<string name="Street_view">Street view</string>
+<string name="Ask">Ask</string>
+<string name="Choose_an_action">Zvolte operaci</string>
+<string name="Folders_first">Složky první</string>
+<string name="Folders_first_summary">Zobrazit nejprve složky, potom soubory.</string>
+<string name="FAQ">FAQ</string>
+<string name="FAQ_summary">Před položením jakéhokoliv dotazu si prosím přečtěte FAQ</string>
+
+<!-- v 1.3.8 -->
+<string name="Quick_config">Quick config</string> <!-- short word please -->
+
+<!-- Now multiple patterns are supported so you can correct previous patterns
+if more than one noun in a sentence is affected -->
+     <string name="X_folders_and_Y_files_deleted">%x slož{1:ka|2-4:ky|__:ek} a %y soubor{1:|2-4:ry|__:ů} smazáno.</string>
+     <string name="X_folders_and_Y_files_copied">%x slož{1:ka|2-4:ky|__:ek} a %y soubor{1:|2-4:ry|__:ů} zkopírováno.</string>
+     <string name="X_folders_and_Y_files_moved">%x slož{1:ka|2-4:ky|__:ek} a %y soubor{1:|2-4:ry|__:ů} přesunuto.</string>
+     <string name="Deleting_X_folders_and_Y_files">Mazání %x slož{1:ky|2-4:ky|__:ek} a %y soubor{1:|2-4:ry|__:ů}</string>
+     <string name="Copying_X_folders_and_Y_files">Kopírování %x slož{1:ky|2-4:ky|__:ek} a %y soubor{1:|2-4:ry|__:ů}</string>
+     <string name="Moving_X_folders_and_Y_files">Přesouvání %x slož{1:ky|2-4:ky|__:ek} a %y soubor{1:|2-4:ry|__:ů}</string>
+    
+     <string name="X_folders_moved">% slož{1:ka|2-4:ky|__:ek} přesunuto.</string>
+     <string name="Moving_X_folders">Přesouvám % slož{1:ku|2-4:ky|__:ek}</string>
+    
+     <string name="X_folders">% slož{1:ka|2-4:ky|__:ek}</string>
+     <string name="X_files">% soubor{1:|2-4:y|__:ů}</string>
+    
+     <string name="Show_status_summary">Show information about directory content and used space in the explorer window</string>
+     <string name="Show_status">Show status</string>
+     <string name="Mount_rw">Připojit r/w</string>
+     <string name="System_mounted_as_read_write">Systém připojen pro čtení a zápis</string>
+     <string name="System_mounted_as_read_only">Systém připojen pouze pro čtení</string>
+    
 
 </resources>
